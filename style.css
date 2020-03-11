@@ -101,5 +101,6 @@ nav:hover a {
     padding-left: 5px;
     padding: 5px;
     text-shadow: 2px 2px black;
-    border: dashed 1px aqua;
+    border-radius: 4px;
+    border: 1px dashed black;
 }

@@ -13,7 +13,7 @@ h1  {
     font-size: 100px;
     font-weight: lighter;
     color: white;
-    background-image: linear-gradient(to bottom right, aqua, #42f5cb);
+    background-image: linear-gradient(to bottom left, #00B670, #009AA3);
     margin: 0px;
     text-shadow: 2px 2px black;
     border-bottom: dashed white 1px;

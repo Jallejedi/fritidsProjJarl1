@@ -82,7 +82,7 @@ nav {
     width: 3rem;
     height: 100vh;
     transition: width 200ms ease;
-    background-image: linear-gradient(to bottom left, aqua, #42f5cb);
+    background-image: linear-gradient(to bottom left, #00B670, #009AA3);
     border: dashed white 1px;
 }
 
